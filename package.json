@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://thanigaivel569.github.io/QR_Scan_POC",
+  "homepage": "https://thanigaivel569.github.io/QR_Scan_POC",
   "dependencies": {
     "gh-pages": "^3.1.0",
     "react": "^16.4.1",
