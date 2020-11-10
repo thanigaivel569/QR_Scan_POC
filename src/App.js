@@ -1,12 +1,13 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import { bindActionCreators } from "redux";
 import { connect } from "react-redux";
 import './App.css';
 import Hello from './Component/Hello'
 import * as productActions from './Action/ProductAction';
-import { withRouter,Route, Switch, Link} from "react-router-dom";
-import ProductList from './Component/ProductList';
+//import { withRouter,Route, Switch, Link} from "react-router-dom";
+import { withRouter } from "react-router-dom";
+//import ProductList from './Component/ProductList';
 import QrReader from 'react-qr-reader'
 
 
