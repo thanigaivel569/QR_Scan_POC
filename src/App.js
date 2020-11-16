@@ -50,6 +50,7 @@ handleError = err => {
          {this.state.scan ?
          <div className="size">
          <QrReader
+          delay={false}
           onError={this.handleError}
           onScan={this.handleScan} 
         />
