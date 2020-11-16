@@ -38,7 +38,6 @@ handleError = err => {
 
  changeState = () => {
   this.setState({
-    // value: "Scanned results",
     scan:true
   });
  }
@@ -46,21 +45,13 @@ handleError = err => {
     alert(this.state.result);
     return (
       <div className="App">
-        {/* <header className="App-header"> */}
-          {/* <img src={logo} className="App-logo" alt="logo" /> */}
-          {/* <h1 className="App-title">Welcome to React</h1>
-        </header> */}
         <Hello name={this.state.value} />
-        
-         <button type="button"onClick={this.changeState}>Scan</button> 
+       <button type="button"onClick={this.changeState}>Scan</button> 
          {this.state.scan ?
          <div className="size">
          <QrReader
-          delay={300}
           onError={this.handleError}
-          onScan={this.handleScan}
-          //style={{ width: '30%', border:'1px solid rgba(0, 0, 0, 0.3)'}}
-          
+          onScan={this.handleScan} 
         />
         </div> : "" }
         <p>{this.state.result}</p>
