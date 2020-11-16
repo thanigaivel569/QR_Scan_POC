@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/QR_Scan_POC/static/js/runtime~main.98bcebc7.js"
   },
   {
-    "revision": "3ead42312d678a274d41",
-    "url": "/QR_Scan_POC/static/js/main.3ead4231.chunk.js"
+    "revision": "8abcff3c84ce7927387d",
+    "url": "/QR_Scan_POC/static/js/main.8abcff3c.chunk.js"
   },
   {
     "revision": "ab7fb3c24c3cd6401663",
     "url": "/QR_Scan_POC/static/js/1.ab7fb3c2.chunk.js"
   },
   {
-    "revision": "3ead42312d678a274d41",
+    "revision": "8abcff3c84ce7927387d",
     "url": "/QR_Scan_POC/static/css/main.156eda13.chunk.css"
   },
   {
-    "revision": "741aa4e41661c14ec2c5dc541b287bc0",
+    "revision": "5b35780d97a63a032f1e8e697e91fa51",
     "url": "/QR_Scan_POC/index.html"
   }
 ];
