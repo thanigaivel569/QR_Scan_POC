@@ -53,6 +53,8 @@ handleError = err => {
           delay={false}
           onError={this.handleError}
           onScan={this.handleScan} 
+          showViewFinder={true}
+          resolution={1600}
         />
         </div> : "" }
         <p>{this.state.result}</p>
