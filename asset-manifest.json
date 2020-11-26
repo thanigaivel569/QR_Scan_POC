@@ -1,13 +1,13 @@
 {
-  "main.css": "/QR_Scan_POC/static/css/main.156eda13.chunk.css",
-  "main.js": "/QR_Scan_POC/static/js/main.8abcff3c.chunk.js",
-  "main.js.map": "/QR_Scan_POC/static/js/main.8abcff3c.chunk.js.map",
-  "static/js/1.ab7fb3c2.chunk.js": "/QR_Scan_POC/static/js/1.ab7fb3c2.chunk.js",
-  "static/js/1.ab7fb3c2.chunk.js.map": "/QR_Scan_POC/static/js/1.ab7fb3c2.chunk.js.map",
+  "main.css": "/QR_Scan_POC/static/css/main.a47716d1.chunk.css",
+  "main.js": "/QR_Scan_POC/static/js/main.df79c987.chunk.js",
+  "main.js.map": "/QR_Scan_POC/static/js/main.df79c987.chunk.js.map",
+  "static/js/1.1b362a19.chunk.js": "/QR_Scan_POC/static/js/1.1b362a19.chunk.js",
+  "static/js/1.1b362a19.chunk.js.map": "/QR_Scan_POC/static/js/1.1b362a19.chunk.js.map",
   "runtime~main.js": "/QR_Scan_POC/static/js/runtime~main.98bcebc7.js",
   "runtime~main.js.map": "/QR_Scan_POC/static/js/runtime~main.98bcebc7.js.map",
-  "static/css/main.156eda13.chunk.css.map": "/QR_Scan_POC/static/css/main.156eda13.chunk.css.map",
+  "static/css/main.a47716d1.chunk.css.map": "/QR_Scan_POC/static/css/main.a47716d1.chunk.css.map",
   "index.html": "/QR_Scan_POC/index.html",
-  "precache-manifest.f7b0761a17bcf7495377f8fad4b8412f.js": "/QR_Scan_POC/precache-manifest.f7b0761a17bcf7495377f8fad4b8412f.js",
+  "precache-manifest.4b824cc90ce91ac74a1b773799af3f21.js": "/QR_Scan_POC/precache-manifest.4b824cc90ce91ac74a1b773799af3f21.js",
   "service-worker.js": "/QR_Scan_POC/service-worker.js"
 }
