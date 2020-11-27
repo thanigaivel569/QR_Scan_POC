@@ -48,12 +48,13 @@ handleError = err => {
         <Hello name={this.state.value} />
        <button type="button"onClick={this.changeState}>Scan</button> 
          {this.state.scan ?
-         <div className="size">
+         <div>
          <QrReader
           delay={100}
           onError={this.handleError}
           onScan={this.handleScan} 
           resolution={1600}
+          style={{ width: '100%' }}
         />
         </div> : "" }
         <p>{this.state.result}</p>
