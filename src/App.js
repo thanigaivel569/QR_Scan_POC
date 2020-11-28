@@ -31,6 +31,7 @@ handleScan = data => {
       result: data
     })
   }
+  
 }
 handleError = err => {
   console.error(err)
@@ -40,6 +41,11 @@ handleError = err => {
   this.setState({
     scan:true
   });
+  //this.onImageLoad()
+ }
+
+ onImageLoad= () => {
+   alert("OMG")
  }
   render() {
     alert(this.state.result);
@@ -48,13 +54,15 @@ handleError = err => {
         <Hello name={this.state.value} />
        <button type="button"onClick={this.changeState}>Scan</button> 
          {this.state.scan ?
-         <div>
+         <div className="size">
          <QrReader
           delay={100}
           onError={this.handleError}
           onScan={this.handleScan} 
           resolution={1600}
-          style={{ width: '100%' }}
+          style={{ width: '100%'}}
+          legacyMode={true}
+          onLoad={this.onImageLoad}
         />
         </div> : "" }
         <p>{this.state.result}</p>
