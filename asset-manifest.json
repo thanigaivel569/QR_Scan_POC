@@ -1,13 +1,13 @@
 {
   "main.css": "/QR_Scan_POC/static/css/main.5d53ecc9.chunk.css",
-  "main.js": "/QR_Scan_POC/static/js/main.1d6eab77.chunk.js",
-  "main.js.map": "/QR_Scan_POC/static/js/main.1d6eab77.chunk.js.map",
+  "main.js": "/QR_Scan_POC/static/js/main.cd99b200.chunk.js",
+  "main.js.map": "/QR_Scan_POC/static/js/main.cd99b200.chunk.js.map",
   "static/js/1.1b362a19.chunk.js": "/QR_Scan_POC/static/js/1.1b362a19.chunk.js",
   "static/js/1.1b362a19.chunk.js.map": "/QR_Scan_POC/static/js/1.1b362a19.chunk.js.map",
   "runtime~main.js": "/QR_Scan_POC/static/js/runtime~main.98bcebc7.js",
   "runtime~main.js.map": "/QR_Scan_POC/static/js/runtime~main.98bcebc7.js.map",
   "static/css/main.5d53ecc9.chunk.css.map": "/QR_Scan_POC/static/css/main.5d53ecc9.chunk.css.map",
   "index.html": "/QR_Scan_POC/index.html",
-  "precache-manifest.fbfae4ae060eee3d913a5bac956ca0ef.js": "/QR_Scan_POC/precache-manifest.fbfae4ae060eee3d913a5bac956ca0ef.js",
+  "precache-manifest.cf3a57dcb17c1293a51703ac0bcf915d.js": "/QR_Scan_POC/precache-manifest.cf3a57dcb17c1293a51703ac0bcf915d.js",
   "service-worker.js": "/QR_Scan_POC/service-worker.js"
 }
