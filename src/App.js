@@ -44,9 +44,7 @@ handleError = err => {
   //this.onImageLoad()
  }
 
- onImageLoad= () => {
-   alert("OMG")
- }
+ 
   render() {
     alert(this.state.result);
     return (
@@ -61,8 +59,6 @@ handleError = err => {
           onScan={this.handleScan} 
           resolution={1600}
           style={{ width: '100%'}}
-          legacyMode={true}
-          onLoad={this.onImageLoad}
         />
         </div> : "" }
         <p>{this.state.result}</p>
