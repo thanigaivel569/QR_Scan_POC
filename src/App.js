@@ -58,7 +58,7 @@ handleError = err => {
           onError={this.handleError}
           onScan={this.handleScan} 
           resolution={1600}
-          style={{ width: '100%'}}
+          style={{ width: '50%'}}
         />
         </div> : "" }
         <p>{this.state.result}</p>
