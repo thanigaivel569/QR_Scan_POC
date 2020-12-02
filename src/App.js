@@ -57,8 +57,9 @@ handleError = err => {
           delay={100}
           onError={this.handleError}
           onScan={this.handleScan} 
-         // resolution={1600}
+         resolution={1920}
           style={{ width: '60%'}}
+          focusMode={"continuous"}
         />
         </div> : "" }
         <p>{this.state.result}</p>
